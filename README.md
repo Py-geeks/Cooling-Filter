@@ -101,7 +101,7 @@ cv2.destroyAllWindows()
 ## Images
 <p align="center">
 	<img src="cat.png" alt="Original png", height=250px,width=350px>
-	<img src="warming effect.PNG" alt="Warmed", height=250px,width=340px>
+	<img src="cool.PNG" alt="Cooled", height=250px,width=340px>
 </p>
 
 ### Developed by
